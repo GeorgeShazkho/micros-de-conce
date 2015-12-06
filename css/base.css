@@ -1,0 +1,63 @@
+/* STRUCTURE */
+.space-15 { height: 15px; }
+.space-30 { height: 30px; }
+
+/* FONTS */
+.font-main { font-family: 'Roboto', sans-serif; }
+.font-condensed { font-family: 'Roboto Condensed', sans-serif; }
+
+/* COLORS */
+.color-accent { color: #d65c37; }
+.color-primary { color: #67727a; }
+.color-secondary { color: #6990ab; }
+.color-light { color: #c2d6de; }
+.color-lighter { color: #f4f4f4; }
+.color-dark { color: #434e56; }
+.color-darker { color: #242a31; }
+
+.background-accent { background-color: #d65c37; }
+.background-primary { background-color: #67727a; }
+.background-secondary { background-color: #6990ab; }
+.background-light { background-color: #c2d6de; }
+.background-lighter { background-color: #f4f4f4; }
+.background-dark { background-color: #434e56; }
+.background-darker { background-color: #242a31; }
+
+
+
+.color-main { color: #da3340; }
+.color-gray { color: #d4d4d4; }
+.color-gray2 { color: #ababab; }
+.color-black { color: #0f0f0f; }
+.color-white { color: white; }
+.background-main { background-color: #4297b4; }
+.background-gray { background-color: #d4d4d4; }
+.background-black { background-color: #0f0f0f; }
+.background-white { background-color: white; }
+.color-facebook { color: #3b5998; }
+.color-twitter { color: #00aced; }
+.color-whatsapp { color: #4dc247; }
+.color-google { color: #dd4b39; }
+
+/* STYLES */
+.text-shadow { text-shadow: 1px 1px 1px #999; }
+.font-100 { font-weight: 100; }
+.font-300 { font-weight: 300; }
+.font-400 { font-weight: 400; }
+.font-500 { font-weight: 500; }
+.font-700 { font-weight: 700; }
+.border-box { border: solid 1px #ddd; }
+h2 { margin-top: 15px; }
+
+/* BASE TEMPLATE */
+html, body {
+    -webkit-font-smoothing: antialiased;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.content-row {
+    background-color: #f8f8f8;
+    border-left: solid 1px #ddd;
+    border-right: solid 1px #ddd;
+}

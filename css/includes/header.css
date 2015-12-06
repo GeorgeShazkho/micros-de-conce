@@ -1,0 +1,22 @@
+.header, .header .inner {
+    height: 80px;
+}
+
+.header .brand-logo {
+    float: left;
+    margin-top: 15px;
+    margin-right: 15px;
+}
+
+.header .brand-logo img {
+    height: 50px;
+    width: auto;
+}
+
+.header .brand-title {
+    float: left;
+    height: 80px;
+    line-height: 80px;
+    font-size: larger;
+    font-family: roboto-light, sans-serif;
+}
